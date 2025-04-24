@@ -1,0 +1,6 @@
+Today I learned the basics of Git, which is a distributed version control system used to track changes in source code. Here are some key points:
+
+- `git add` stages files to be committed.
+- `git commit` saves a snapshot of the staged changes.
+- `git push` uploads the committed changes to a remote repository like GitHub.
+- Git helps developers collaborate more efficiently and manage different versions of their code.
